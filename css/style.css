@@ -130,6 +130,9 @@ body {
     align-items: center;
     margin-top: 32px;
     margin-bottom: 20px;
+     :hover {
+        background: gradient(90deg, #FFE2D1 0%, #FFF5EF 100%);
+    }
 }
 
 .list1__btn__texts {
@@ -146,6 +149,7 @@ body {
     gap: 0px;
     opacity: 0px;
     margin-left: 24px;
+    color: #062630;
 }
 
 .list1__btn__img {
@@ -707,7 +711,8 @@ body {
     text-align: left;
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
-    margin-left: 43px;
+    padding: 20px;
+    color: #062630;
 }
 
 .main__blog5__file2 {
@@ -854,7 +859,7 @@ body {
     background-color: #fff5ef;
     margin-bottom: 40px;
      :hover {
-        background-color: #ffe2d1;
+        background: gradient(90deg, #FFE2D1 0%, #FFF5EF 100%);
     }
 }
 
@@ -867,7 +872,8 @@ body {
     text-align: left;
     text-underline-position: from-font;
     text-decoration-skip-ink: none;
-    margin-left: 75px;
+    padding: 20px;
+    color: #062630;
 }
 
 .main__blog5__file3 {
